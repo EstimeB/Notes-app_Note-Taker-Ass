@@ -1,7 +1,7 @@
 // Import the dependencies
 const express = require('express');
 
-const PORT = process.env.port || 3001;
+const PORT = process.env.PORT || 3001;
 
 // Initialize the app
 const app = express();
