@@ -13,6 +13,9 @@ app.use(express.urlencoded({ extended: true })); // req.body  in post routes wil
 app.use(express.static('public'));
 
 
+app.use(require("./route/api"));
+app.use(require("./route/html"));
+
 // Listening
 app.listen(PORT, () =>
   console.log(`App listening at http://localhost:${PORT} 🚀`)
