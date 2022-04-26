@@ -38,7 +38,7 @@ For further information on the license please visit (https://snyk.io/learn/open-
  https://sheltered-meadow-95267.herokuapp.com/
 
 ### Questions 
- Any questions please email me at [Installation](estimebrithnie@yahoo.com)
+ Any questions please email me at estimebrithnie@yahoo.com
  or visit my [Github Profile](https://github.com/Estimeb)
  
  
